@@ -1,0 +1,28 @@
+header h1 {
+    text-align: left;
+}
+header {
+    background-color:#0047FF ;
+}
+header img {
+    margin: 5px;
+}
+main p {
+    text-align: center;
+    font-size: 20px
+}
+main img {
+ border: inset lawngreen 5px;   
+}
+main {
+    background-color:#0085FF ;
+}
+footer  a {
+text-decoration: none;
+}
+footer {
+   background-color:#0047FF ; 
+}
+footer h1 {
+    text-align: center;
+}
