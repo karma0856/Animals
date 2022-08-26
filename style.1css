@@ -1,0 +1,48 @@
+header h1 {
+ text-align: center;
+}
+header {
+    background-color:#0BF3E5 ;
+    border: solid yellow 10px;
+
+}
+.main_img {
+ display: flex;
+  justify-content: space-around;   
+}
+main img {
+    margin: 5px;
+    border:groove black 10px;
+    padding: 5px;
+    background-color:#0BF3E5 ;
+}
+p i {
+font-size: 25px;
+color:#FF0000 ;
+}
+b {
+    font-size: 20px;
+}
+main {
+    background-color: #1C08FB;
+}
+b {
+    border: inset #00FF0A 8px;
+}
+footer h1 {
+    text-align: center;
+    border:solid aqua 15px  ;
+    background-color: aqua;
+    
+}    
+footer img {
+    border: groove 10px red;
+   
+}
+
+footer {
+    background-color:#FAFF07 ;
+}
+footer a {
+    text-decoration: none;
+}
