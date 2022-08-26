@@ -1,0 +1,35 @@
+header h1 {
+  color: red ;
+  text-align: center;
+}
+h2  {
+  text-align: center;
+  color: purple;
+}
+header {
+  margin: 0px;
+  background-color:#0ADDFA ;
+}
+header img {
+  border: 5px solid black;
+}
+.header_img {
+  display: flex;
+  justify-content: space-around;
+}
+main{
+  background-color:#FEE50A; 
+  border: dotted  15px #0ADDFA;
+  
+}
+main p {
+  color: #FA07FF;
+  font-size: 20px;
+  padding: 5px;
+}
+footer img {
+  margin: 15px;
+  border:double 10px black ;
+  background-color:#0AE013 ;
+  
+}
